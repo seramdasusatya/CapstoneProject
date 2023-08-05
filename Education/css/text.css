@@ -1,0 +1,185 @@
+.n1{
+	display: inline;
+	color: tomato;
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	font-size: 100px;
+	font-family: sans-serif;
+	text-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.n2{
+	color: #bcbcbc;
+	position: absolute;
+	top: 310px;
+	left: 110px;
+	font-family: sans-serif;
+	text-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.n3{
+	position: absolute;
+	top: 80px;
+	left: 100px;
+	font-size: 20px;
+}
+.n4{
+	position: absolute;
+	top: 120px;
+	left: 100px;
+	font-size: 40px;
+}
+.n5{
+	position: absolute;
+	top: 180px;
+	left: 100px;
+}
+.n6{
+	position: absolute;
+	top: 220px;
+	left: 100px;
+}
+.n7{
+	position: absolute;
+	font-size: 25px;
+	top: 140px;
+	left: 45px;
+	color: white;
+	font-weight: bold;
+}
+.n8{
+	position: absolute;
+	font-size: 25px;
+	top: 140px;
+	left: 20px;
+	color: white;
+	font-weight: bold;
+}
+.n9{
+	position: absolute;
+	font-size: 25px;
+	top: 140px;
+	left: 60px;
+	color: white;
+	font-weight: bold;
+}
+.n10{
+	position: absolute;
+	font-size: 25px;
+	top: 140px;
+	left: 75px;
+	color: black;
+	font-weight: bold;
+}
+.n11{
+	color: white;
+}
+.n12{
+	color: black;
+}
+.n13{
+	position: absolute;
+	font-size: 20px;
+	color: black;
+	top: 50px;
+	left: 47%;
+}
+.n14{
+	font-size: 40px;
+	position: absolute;
+	color: black;
+	top: 80px;
+	left: 40%;
+}
+.n15{
+	padding-top: 10px;
+	padding-right: 30px;
+	text-align: justify;
+	position: absolute;
+	top: 70px;
+	color: #a6a1ad;
+}
+.n16{
+	font-size: 15px;
+	position: absolute;
+	color: #a6a1ad;
+	top: 230px;
+}
+.n17{
+	color: white;
+	position: absolute;
+	top: 80px;
+	left: 550px;
+	font-size: 20px;
+}
+.n18{
+	color: white;
+	position: absolute;
+	top: 120px;
+	left: 400px;
+	font-size: 40px;
+}
+.n19{
+	color: white;
+	position: absolute;
+	top: 200px;
+	left: 400px;
+}
+.n20{
+	color: white;
+	transform: rotate(270deg);
+	position: absolute;
+	top: 60%;
+	font-size: 50px;
+	left: 15px;
+}
+.n21{
+	color: white;
+	transform: rotate(270deg);
+	position: absolute;
+	top: 42%;
+	font-size: 50px;
+	left: 83px;
+}
+.n22{
+	color: white;
+	transform: rotate(270deg);
+	position: absolute;
+	top: 22%;
+	font-size: 50px;
+}
+.n23{
+	
+	color:black;
+	font-size: 30px;
+	font-weight: bold;
+}
+.n24{
+	position: absolute;
+	color: black;
+	text-align: justify;
+	top: 210px;
+	right: 20px;
+	left: 20px;
+}
+.n25{
+	color: white;
+	font-weight: bold;
+}
+.n26{
+	color: white;
+	position: absolute;
+	top: 70px;
+}
+.n27{
+	font-size: 30px;
+	font-weight: bold;
+}
+.n28{
+	font-size: 20px;
+}
+.n29{
+	position: absolute;
+	top: 30px;
+	left: 500px;
+	color: white;
+}

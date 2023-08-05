@@ -1,0 +1,407 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: monospace;
+}
+.main{
+	width: 100%;
+	background-color: skyblue;
+}
+.d1{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+	position: relative;
+}
+.d2{
+	width: 100%;
+	height: 600px;
+}
+.d3{
+	width: 100%;
+	height: 200px;
+	background-color: #f7f7f7;
+}
+.d4{
+	width: 100%;
+	height: 600px;
+	background-image: url("../images/img2.jpg");
+	background-size: cover;
+	position: relative;
+}
+.d5{
+	width: 100%;
+	height: 400px;
+	background-color: white;
+}
+.d6{
+	width: 50%;
+	height: 400px;
+	float: left;
+	background-color: white;
+	position: relative;
+}
+.d7{
+	width: 50%;
+	height: 400px;
+	float: right;
+	background-color: white;
+	position: relative;
+}
+.d8{
+	width: 100%;
+	height: 400px;
+	background-color: white;
+
+}
+.d9{
+	width: 50%;
+	height: 400px;
+	float: left;
+	position: relative;
+}
+.d10{
+	width: 50%;
+	height: 400px;
+	float: right;
+	position: relative;
+}
+.d11{
+	width: 100%;
+	height: 900px;
+	position: relative;
+}
+.d12{
+	width: 100%;
+	height: 600px;
+	background-image: url("../images/img6.jpg");
+	background-size: cover;
+}
+.d13{
+	width: 100%;
+	height: 300px;
+	background-color: white;
+}
+.d14{
+	width: 80%;
+	height: 300px;
+	background-color: red;
+	position: absolute;
+	top: 500px;
+	left: 130px;
+	box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.d15{
+	width: 25%;
+	height: 300px;
+	background-color: #4894b6;
+	float: left;
+}
+.d16{
+	width: 25%;
+	height: 300px;
+	background-color: #66ca5a;
+	float: left;
+}
+.d17{
+	width: 25%;
+	height: 300px;
+	background-color: #f4121d;
+	float: left;
+}
+.d18{
+	width: 25%;
+	height: 300px;
+	background-color: #f1c50e;
+	float: right;
+}
+.d19{
+	width: 100%;
+	height: 150px;
+	position: relative;
+}
+.d20{
+	width: 100%;
+	height: 150px;
+	text-align: justify;
+	padding: 40px;
+}
+.d21{
+	width: 100px;
+	height: 100px;
+	border: 0px;
+	border-radius: 100px;
+	background-color: white;
+	position: absolute;
+	top: 30px;
+	left: 70px;
+	padding-left: 30px;
+	padding-top: 25px;
+}
+.d22{
+	width: 100px;
+	height: 100px;
+	border: 0px;
+	border-radius: 100px;
+	background-color: white;
+	position: absolute;
+	top: 30px;
+	left: 70px;
+	padding-left: 25px;
+	padding-top: 25px;
+}
+.d23{
+	width: 100px;
+	height: 100px;
+	border: 0px;
+	border-radius: 100px;
+	background-color: white;
+	position: absolute;
+	top: 30px;
+	left: 70px;
+	padding-left: 20px;
+	padding-top: 25px;
+}
+.d24{
+	width: 100px;
+	height: 100px;
+	border: 0px;
+	border-radius: 100px;
+	background-color: white;
+	position: absolute;
+	top: 30px;
+	left: 70px;
+	padding-left: 28px;
+	padding-top: 25px;
+}
+.d25{
+	width: 100%;
+	height: 500px;
+	background-color: #f2f2f2;
+	position: relative;
+}
+.d26{
+	width: 100%;
+	height: 30%;
+
+}
+.d27{
+	width: 100%;
+	height: 70%;
+}
+.d28{
+	width: 35%;
+	height: 100%;
+	float: left;
+	position: relative;
+}
+.d29{
+	width: 30%;
+	height: 100%;
+	float: left;
+	position: relative;
+}
+.d30{
+	width: 35%;
+	height: 100%;
+	float: right;
+	position: relative;
+}
+.d31{
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+	background-color: white;
+	box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.2);
+	padding: 20px;
+}
+.d32{
+	width: 90%;
+	height: 80%;
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	background-color: white;
+	box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.2);
+	padding: 20px;
+}
+.d33{
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 5%;
+	right: 15%;
+	background-color: white;
+	box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.2);
+	padding: 20px;
+}
+.d34{
+	width: 80%;
+	height: 4px;
+	border-radius: 50px;
+	background: linear-gradient(to right, #0000ff 0%, #66ff33 100%);
+	margin-top: 10px;
+}
+.d35{
+	width: 85%;
+	height: 4px;
+	border-radius: 50px;
+	position: absolute;
+	top: 200px;
+	background: linear-gradient(to right, #66ff33 0%, #0000ff 100%);
+}
+.d36{
+	width: 100%;
+	height: 400px;
+	background-color: #66ca5a;
+	position: relative;
+	text-align: center;
+}
+.d37{
+	width: 100%;
+	height: 800px;
+	background-color: red;
+}
+.d53{
+	width: 10%;
+	height: 800px;
+	background-color: #66ca5a;
+	float: left;
+	position: relative;
+
+}
+.d38{
+	width: 30%;
+	height: 800px;
+	background-color: skyblue;
+	float: left;
+}
+.d39{
+	width: 60%;
+	height: 800px;
+	background-color: blue;
+	float: right;
+}
+.d40{
+	width: 100%;
+	height: 60%;
+	background-color: yellow;
+}
+.d41{
+	width: 100%;
+	height: 40%;
+	background-color: white;
+	position: relative;
+}
+.d42{
+	width: 100%;
+	height: 50%;
+	background-color: indianred;
+}
+.d43{
+	width: 100%;
+	height: 50%;
+	background-color: purple;
+}
+.d44{
+	width: 50%;
+	height: 100%;
+	float: left;
+	background-color: white;
+	position: relative;
+}
+.d45{
+	width: 100%;
+	height: 60%;
+	background-color: white;
+	position: relative;
+}
+.d46{
+	width: 100%;
+	height: 40%;
+	background-color: white;
+	position: relative;
+}
+.d47{
+	width: 70%;
+	height: 90%;
+	background-color: #f2c81a;
+	position: absolute;
+	top: 35px;
+	left: 90px;
+	padding-top: 130px;
+	padding-left: 30px;
+}
+.d48{
+	width: 88%;
+	height: 90%;
+	background-color: #f4121d;
+	position: absolute;
+	top: 25px;
+	left: 20px;
+	padding:20px;
+}
+.d49{
+	width: 80%;
+	height: 80%;
+	background-image: url("../images/img10.jpg");
+	background-size: cover;
+	position: absolute;
+	left: 20px;
+	top: 35px;
+}
+.d50{
+	width: 80%;
+	height: 80%;
+	background-color: white;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+.d51{
+	width: 80%;
+	height: 80%;
+	background-image: url("../images/img12.jpg");
+	background-size: cover;
+	position: absolute;
+	top: 35px;
+
+}
+.d52{
+	width: 80%;
+	height: 80%;
+	background-image: url("../images/img13.jpg");
+	background-size: cover;
+	position: absolute;
+	top: 20px;
+
+}
+.d54{
+	width: 100%;
+	height: 500px;
+	background-color: #fec128;
+}
+.d55{
+	width: 50%;
+	height: 100%;
+	float: left;
+	position: relative;
+}
+.d56{
+	width: 50%;
+	height: 100%;
+	float: right;
+	background-image: url("../images/img15.jpg");
+	background-size: cover
+}
+.d57{
+	width: 100%;
+	height: 200px;
+	background-color: #333333;
+	position: relative;
+}
